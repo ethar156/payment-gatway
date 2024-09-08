@@ -30,7 +30,7 @@ class _PaymentMethodsBottomSheetState extends State<PaymentMethodsBottomSheet> {
             height: 32
             ,
           ),
-          customButtonBlocConsumer(),
+          CustomButtonBlocConsumer(),
         
            SizedBox(
             height: 32,

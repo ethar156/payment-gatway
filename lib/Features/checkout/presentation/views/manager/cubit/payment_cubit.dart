@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:payment_gatway_app/Features/checkout/data/model/payment_intent_model/payment_intent_input_model.dart';
 import 'package:payment_gatway_app/Features/checkout/data/model/payment_intent_model/payment_intent_model.dart';
 import 'package:payment_gatway_app/Features/checkout/data/model/payment_intent_model/repos/chechout_repo.dart';
-
-
 part 'payment_state.dart';
 
 class PaymentCubit extends Cubit<PaymentState> {
